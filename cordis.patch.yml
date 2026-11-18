@@ -1,0 +1,4 @@
+# @supertiny99/dsh-ui-gallery bundle patch：同一个包提供 host 半片与浏览器半片
+- insert:
+    - id: ui-gallery
+      name: '@supertiny99/dsh-ui-gallery'
