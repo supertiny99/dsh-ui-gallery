@@ -1,6 +1,6 @@
 {
 	"name": "@supertiny99/dsh-ui-gallery",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "DeepSeek Harness 官方组件画廊：在整页面板活体展示 @deepseek-ai/dsh-client-ui-primitives 全部可继承组件与 DSH 窗口盒子模型/112个插槽蓝图——插件 UI 选型的活体文档。external 引宿主冻结模块表，零内嵌依赖。",
 	"type": "module",
 	"main": "src/host.js",
